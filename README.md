@@ -1,2 +1,2 @@
 # TengLatte Asset Archive
-> **Default Password): `TengLatte`
+> **Default Password: `TengLatte`
